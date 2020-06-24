@@ -211,3 +211,12 @@ touch styles.css
 rm -r src
 ls --color=auto
 mv styles.css client/src
+find
+find
+find
+find
+cd../
+cd ../
+ls --color=auto
+cd website
+find
