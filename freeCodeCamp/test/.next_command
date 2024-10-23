@@ -233,3 +233,4 @@ mv images assets
 cd ../
 cd assets
 mkdir images
+cd images
