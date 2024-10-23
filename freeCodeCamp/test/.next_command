@@ -74,3 +74,6 @@ touch index.html
 touch style.css
 touch styles.css
 ls --color=auto
+rm style.css
+ls --color=auto
+touch index.js
