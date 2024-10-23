@@ -119,3 +119,4 @@ mw roboto.font roboto.woff
 mv roboto.font roboto.woff
 LS
 ls --color=auto
+mv lato.font lato.ttf
