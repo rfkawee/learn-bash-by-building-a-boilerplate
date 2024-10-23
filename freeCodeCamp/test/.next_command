@@ -271,3 +271,16 @@ mv header.png client/assets/images
 find header.png
 find -name header.png
 find -name footer.jpeg
+cd images
+cd ..
+ls --color=auto
+cd images
+ls --color=auto
+cd ..
+mv images/footer.jpg client/assets/images
+cd images
+mv footer.jpg client/assets/images
+mv images/footer.jpeg client/assets/images
+find -name footer.jpeg
+cd ..
+mv images/footer.jpeg client/assets/images
