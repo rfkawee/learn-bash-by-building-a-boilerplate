@@ -302,3 +302,66 @@ mv CodeAlly.svg client/assets/icons
 find
 ls --color=auto
 mv CodeRoad.svg client/assets/icons
+mv freeCodeCamp.svg client/assets/icons
+find
+find
+find
+find
+find
+find
+find
+find
+find
+ls --color=auto
+find
+cd assets
+ls --color=auto
+cd client
+find
+find
+find
+find
+cd ..
+find
+ls --color=auto
+find -name freeCodeCamp.svg
+find icons
+find
+mv freeCodeCamp.svg clients/assets/icons
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd icons
+ls --color=auto
+pwd
+cd ../../..
+ls --color=auto
+mv freeCodeCamp.svg client/assets/icons
+find
+ls --color=auto
+rm CodeAlly.svg
+rm CodeRodad.svg
+ls --color=auto
+rm CodeRoad.svg
+cat styles.css
+rm styles.css
+ls --color=auto
+find
+ls --color=auto
+find
+find
+cd ..
+find
+cd website
+find
+find
+ls --color=auto
+mv freeCodeCamp.svg client/assets/icons
+ls --color=auto
+find
+pwd
+cd ..
+cd website
+find
+find
