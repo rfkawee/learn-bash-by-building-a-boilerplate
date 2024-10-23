@@ -126,3 +126,5 @@ ls --color=auto
 mkdir fonts
 ls --color=auto
 mv roboto.woff fonts
+__vsc_prompt_cmd_original
+find
