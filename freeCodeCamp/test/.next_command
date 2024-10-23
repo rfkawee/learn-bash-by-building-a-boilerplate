@@ -61,3 +61,5 @@ cd ..
 cd node_modules
 ls --color=auto
 cd ..
+cd cd ../..
+cd ../..
