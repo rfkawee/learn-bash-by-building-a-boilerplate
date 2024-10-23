@@ -221,3 +221,4 @@ ls --color=auto
 cd website
 find
 find client
+find --help
