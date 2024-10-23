@@ -255,3 +255,15 @@ ls --color=auto
 ls --color=auto
 cd ..
 ls --color=auto
+find
+find header.png
+mv header.png client/assets/images
+ls --color=auto
+cd client/assets/images
+ls --color=auto
+mv header.png ../../..
+cd ../../..
+ls --color=auto
+find -name
+find -name src
+find -name images
