@@ -481,3 +481,5 @@ mv website website-boilerplate
 ls --color=auto
 __vsc_prompt_cmd_original
 ls --color=auto
+copy --help
+cp --help
