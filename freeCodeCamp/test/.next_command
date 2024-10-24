@@ -443,3 +443,5 @@ rmdir fonts
 ls --color=auto
 cd ../..
 mkdir client/assets/fonts
+touch client/assets/roboto-bold.woff
+touch client/assets/fonts/roboto-bold.woff
