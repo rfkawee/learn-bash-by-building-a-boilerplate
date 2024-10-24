@@ -445,3 +445,10 @@ cd ../..
 mkdir client/assets/fonts
 touch client/assets/roboto-bold.woff
 touch client/assets/fonts/roboto-bold.woff
+rm client/assets/roboto-bold.woff
+find -name roboto
+find
+__vsc_prompt_cmd_original
+touch client/assets/roboto-light.woff
+rm client/assets/roboto-light.woff
+touch client/assets/fonts/roboto-light.woff
